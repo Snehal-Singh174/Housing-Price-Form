@@ -1,3 +1,5 @@
+#Creating a GUI Form for users to insert their details to sell the house
+
 from tkinter import *
 
 root=Tk()
